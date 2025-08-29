@@ -1,12 +1,47 @@
-    📋 Análise do Projeto
-Este é um sistema de gestão de colaboradores com diferentes níveis de acesso:
+🧑‍💼 Sistema de Gestão de Colaboradores:
+   
+    Este é um sistema Full-Stack para gerenciamento de colaboradores, com controle de acesso por níveis:
 
-Colaboradores Normais: Podem ver perfis básicos
-Colaboradores Gestores: Podem gerenciar outros colaboradores e projetos
+🔐 Níveis de Acesso:
 
-    🏗️ Estrutura do Projeto
-Criação de uma aplicação Full-Stack com:
+👤 Colaboradores Normais: 
+    
+    Acesso a perfis básicos.
 
-    Frontend: Next.js 14 + TypeScript + Tailwind CSS
-    Backend: Node.js + Express + TypeScript
-    Banco: PostgreSQL com Prisma ORM
+👨‍💼 Colaboradores Gestores: 
+ 
+    Gerenciam outros colaboradores e projetos.
+
+🏗️ Tecnologias Utilizadas:
+💻 Frontend:
+
+    Next.js 14
+
+    TypeScript
+
+    Tailwind CSS
+
+⚙️ Backend:
+
+    Node.js
+
+    Express
+
+    TypeScript
+
+🗄️ Banco de Dados:
+
+    PostgreSQL
+
+    Prisma ORM
+
+🚀 Funcionalidades:
+
+    ✅ Autenticação e autorização por níveis
+
+    ✅ Visualização de perfis
+
+    🚧 Gestão de projetos
+
+    🚧 Dashboard para gestores
+
